@@ -9,6 +9,6 @@ module.exports = {
   module.exports = {
     //...
     daisyui: {
-      themes: ["aqua"],
+      themes: ["lemonade"],
     },
   }
